@@ -1,0 +1,2 @@
+Administrator,123456,admin
+Thiep,123456,user

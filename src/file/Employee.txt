@@ -1,0 +1,5 @@
+1,Hana,24,Female,0389487443,hana@gmail.com,true,1000000
+2,Phuc,20,Male,0921346578,phuc@gmail.com,true,1200000
+3,Truong,23,Male,0987653412,truong@gmail.com,true,800000
+4,Hanh,19,Female,0987654132,hanh@gmail.com,true,700000
+5,Thang,19,Male,0987654321,Thang@gmail.com,true,1000000
